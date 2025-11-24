@@ -177,7 +177,6 @@ streamlit run app.py
 
 ## **Screenshots**
 
-```md
 ### Home Page
 ![Home Page](screenshots/home_page.png)
 
@@ -208,6 +207,5 @@ streamlit run app.py
 ### Downloaded Report
 ![Downloaded Report](screenshots/downloaded_report.png)
 
-```
-
 ---
+
