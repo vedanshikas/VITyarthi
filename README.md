@@ -9,7 +9,9 @@
 - Name: VEDANSHIKA SINGH
 - Reg No.: 25BAI10612
 - Course: INTRODUCTION TO PROBLEM SOLVING AND PROGRAMMING   
-- Domain: Healthcare, Machine Learning & Prediction  
+- Domain: Healthcare, Machine Learning & Prediction
+- GitHub Link: https://github.com/vedanshikas/VITyarthi
+- Live Project Link: https://vedica-vityarthi.streamlit.app/
 
 ---
 
@@ -208,5 +210,6 @@ streamlit run app.py
 ![Downloaded Report](screenshots/downloaded_report.png)
 
 ---
+
 
 
