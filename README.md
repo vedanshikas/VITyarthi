@@ -87,7 +87,7 @@ The app includes:
 
 ### **1. Clone the Repository**
 ```bash
-git clone <your-repo-url>.git
+git clone https://github.com/vedanshikas/VITyarthi.git
 cd <your-repo-folder>
 ```
 
@@ -208,4 +208,5 @@ streamlit run app.py
 ![Downloaded Report](screenshots/downloaded_report.png)
 
 ---
+
 
